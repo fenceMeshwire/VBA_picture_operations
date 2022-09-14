@@ -2,4 +2,5 @@
 <p>Basic concepts to handle pictures in Excel Worksheets using VBA.</p>
 <ol>
 <li>01_find_save_images_on_worksheet.bas</li>
+<li>02_insert_single_image.bas</li>
 </ol>
