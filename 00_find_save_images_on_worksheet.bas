@@ -32,7 +32,7 @@ For Each shShape In wksSheet.Shapes
       
       strPartnumber = wksSheet.Cells(lngRow, 1).Value
       strIdentifier = wksSheet.Cells(lngRow, 2).Value
-      strEncoding = strPartnumber & "m" & CStr(Len(strBezWi))
+      strEncoding = strPartnumber & "m" & CStr(Len(strIdentifier))
       strSavePath = strSaveDir & strEncoding
       strSaveFile = strSavePath & ".jpg"
       
