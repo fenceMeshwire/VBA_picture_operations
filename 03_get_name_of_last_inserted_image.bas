@@ -1,6 +1,6 @@
 Option Explicit
 
-Sub get_name_of_image_last_inserted()
+Sub get_name_of_last_inserted_image()
   
 Dim shpImage as Shape
 
