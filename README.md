@@ -3,5 +3,5 @@
 <ol>
 <li>01_find_save_images_on_worksheet.bas</li>
 <li>02_insert_single_image.bas</li>
-<li>03_get_name_of_image_last_inserted.bas</li>
+<li>03_get_name_of_last_inserted_image.bas</li>
 </ol>
